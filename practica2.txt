@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+	<meta charset="utf-8"/>
+	<title>practica 2 </title>
+	</head>
+
+	<body>
+		<!--Comentario de la practica 2 -->
+		<CENTER><h1>Mi sitio WEB</h1></CENTER>
+		<hr>
+		BIENVENIDOS		
+	</body>
+
+</html>
